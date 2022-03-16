@@ -429,9 +429,7 @@ const Home = (props: HomeProps) => {
             align="center"
             display="block"
             style={{ marginTop: 7, color: 'grey' }}
-          >
-            Powered by METAPLEX
-          </Typography>
+          ></Typography>
         </Paper>
       </Container>
 
