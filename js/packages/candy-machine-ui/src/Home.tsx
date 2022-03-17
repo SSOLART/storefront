@@ -306,6 +306,7 @@ const Home = (props: HomeProps) => {
                     <Typography variant="body2" color="textSecondary">
                       Remaining
                     </Typography>
+
                     <Typography
                       variant="h6"
                       color="textPrimary"
@@ -313,6 +314,7 @@ const Home = (props: HomeProps) => {
                         fontWeight: 'bold',
                       }}
                     >
+                      Powered by Metaplex
                       {`${itemsRemaining}`}
                     </Typography>
                   </Grid>
