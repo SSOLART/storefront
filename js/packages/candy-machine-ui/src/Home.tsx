@@ -314,7 +314,6 @@ const Home = (props: HomeProps) => {
                         fontWeight: 'bold',
                       }}
                     >
-                      Powered by Metaplex
                       {`${itemsRemaining}`}
                     </Typography>
                   </Grid>
@@ -431,9 +430,7 @@ const Home = (props: HomeProps) => {
             align="center"
             display="block"
             style={{ marginTop: 7, color: 'grey' }}
-          >
-            Powered by METAPLEX
-          </Typography>
+          ></Typography>
         </Paper>
       </Container>
 
